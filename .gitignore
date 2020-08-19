@@ -27,6 +27,7 @@ msbuild.wrn
 
 # Web
 App_Data/
+HilresDB/
 
 # System Files
 Thumbs.db
